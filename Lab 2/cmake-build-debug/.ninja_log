@@ -1,0 +1,12 @@
+# ninja log v5
+1	583	7062170500899388	CMakeFiles/Lab_2.dir/main.cpp.obj	6e12ebd87003e690
+10	587	7062170500915049	CMakeFiles/Lab_2.dir/database.cpp.obj	430a783beacea877
+5	560	7062170806277108	CMakeFiles/Lab_2.dir/database.cpp.obj	430a783beacea877
+561	718	7062170807787396	Lab_2.exe	5d609b00db8aa34f
+4	556	7062175519758714	CMakeFiles/Lab_2.dir/main.cpp.obj	6e12ebd87003e690
+13	559	7062175519790604	CMakeFiles/Lab_2.dir/database.cpp.obj	430a783beacea877
+559	719	7062175521333059	Lab_2.exe	5d609b00db8aa34f
+5	560	7062179213552776	CMakeFiles/Lab_2.dir/database.cpp.obj	430a783beacea877
+561	724	7062179215129691	Lab_2.exe	5d609b00db8aa34f
+4	541	7062182015369088	CMakeFiles/Lab_2.dir/database.cpp.obj	430a783beacea877
+542	700	7062182016907115	Lab_2.exe	5d609b00db8aa34f

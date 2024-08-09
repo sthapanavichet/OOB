@@ -1,0 +1,12 @@
+# ninja log v5
+1	392	7086505208821053	CMakeFiles/Lab_6.dir/main.cpp.obj	c920632ea85ee002
+5	419	7086505209086208	CMakeFiles/Lab_6.dir/club.cpp.obj	af75fe9ea2aa558e
+419	549	7086505210360036	Lab_6.exe	e7a6f5eb1ae1f433
+2	418	7086512718303982	CMakeFiles/Lab_6.dir/club.cpp.obj	af75fe9ea2aa558e
+419	507	7086512719164386	Lab_6.exe	e7a6f5eb1ae1f433
+2	421	7086513130862365	CMakeFiles/Lab_6.dir/club.cpp.obj	af75fe9ea2aa558e
+421	509	7086513131718434	Lab_6.exe	e7a6f5eb1ae1f433
+2	408	7086514910610774	CMakeFiles/Lab_6.dir/club.cpp.obj	af75fe9ea2aa558e
+408	495	7086514911457621	Lab_6.exe	e7a6f5eb1ae1f433
+2	688	7086522091462824	CMakeFiles/Lab_6.dir/club.cpp.obj	af75fe9ea2aa558e
+695	814	7086522092676154	Lab_6.exe	e7a6f5eb1ae1f433

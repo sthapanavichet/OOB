@@ -1,0 +1,6 @@
+# ninja log v5
+7	114	7056113318636877	CMakeFiles/Lab_1.dir/temperature.cpp.obj	7f575b16a294de86
+5	542	7056123738029615	CMakeFiles/Lab_1.dir/main.cpp.obj	9d42b4483bb798c
+2	267	7060564539576454	build.ninja	80ac1aa0b332e5fd
+5	278	7056124596826792	CMakeFiles/Lab_1.dir/distance.cpp.obj	cab469ec21f20fef
+280	436	7056124598322631	Lab_1.exe	57624fa5aeaa1a19

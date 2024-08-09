@@ -1,0 +1,20 @@
+# ninja log v5
+2	200	7117771704242796	build.ninja	798695b4a28bbfc2
+2	299	7116766123884441	CMakeFiles/Lab_8.dir/CompanyExecutive.cpp.obj	b2d79f564b863c4c
+7	300	7116766123884441	CMakeFiles/Lab_8.dir/CompanyEmployee.cpp.obj	39d1bfbe14f3f859
+300	388	7116766124739138	Lab_8.exe	e7e6551066327631
+2	298	7116732192580788	CMakeFiles/Lab_8.dir/main.cpp.obj	a9a8c352af313396
+7	1056	7117776780964410	CMakeFiles/Lab_8.dir/CompanyExecutive.cpp.obj	b2d79f564b863c4c
+3	1057	7117776780979525	CMakeFiles/Lab_8.dir/main.cpp.obj	a9a8c352af313396
+10	1058	7117776780989579	CMakeFiles/Lab_8.dir/CompanyEmployee.cpp.obj	39d1bfbe14f3f859
+1058	1265	7117776783014510	Lab_8.exe	e7e6551066327631
+2	300	7117777331656946	CMakeFiles/Lab_8.dir/CompanyExecutive.cpp.obj	b2d79f564b863c4c
+6	307	7117777331712805	CMakeFiles/Lab_8.dir/CompanyEmployee.cpp.obj	39d1bfbe14f3f859
+307	415	7117777332760644	Lab_8.exe	e7e6551066327631
+2	308	7117790033211949	CMakeFiles/Lab_8.dir/CompanyExecutive.cpp.obj	b2d79f564b863c4c
+7	309	7117790033211949	CMakeFiles/Lab_8.dir/CompanyEmployee.cpp.obj	39d1bfbe14f3f859
+309	403	7117790034135725	Lab_8.exe	e7e6551066327631
+7	331	7117794410632778	CMakeFiles/Lab_8.dir/CompanyExecutive.cpp.obj	b2d79f564b863c4c
+11	332	7117794410632778	CMakeFiles/Lab_8.dir/CompanyEmployee.cpp.obj	39d1bfbe14f3f859
+3	338	7117794410698176	CMakeFiles/Lab_8.dir/main.cpp.obj	a9a8c352af313396
+338	427	7117794411552436	Lab_8.exe	e7e6551066327631
